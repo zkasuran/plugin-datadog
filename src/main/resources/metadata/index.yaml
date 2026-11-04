@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog
+name: "datadog"
+title: "Datadog"
+description: "Tasks that send events, metrics and logs to Datadog, query metrics and logs, list monitors and schedule downtimes."
+body: "Provide a Datadog API key and an application key for the calls that read data, to post events, submit custom metrics, send and search logs, query timeseries, list monitors and mute them with a downtime. A polling trigger starts a flow when monitors go into alert."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

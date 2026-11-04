@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog.monitors
+name: "monitors"
+title: "Datadog monitors"
+description: "A task that lists monitors and a trigger that starts a flow when monitors change state."
+body: "List monitors by name, tags or group state with an application key or let the StateChange trigger start a flow when a monitor goes into alert."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

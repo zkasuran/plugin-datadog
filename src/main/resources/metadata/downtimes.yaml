@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog.downtimes
+name: "downtimes"
+title: "Datadog downtimes"
+description: "Tasks that schedule and cancel downtimes that mute monitor notifications."
+body: "Mute one monitor or the monitors with given tags for a limited time, then cancel the downtime when the work is done."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

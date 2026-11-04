@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog.logs
+name: "logs"
+title: "Datadog logs"
+description: "Tasks that send log entries to Datadog and search the logs."
+body: "Send one or several log entries with the API key or search the Log Explorer with an application key."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

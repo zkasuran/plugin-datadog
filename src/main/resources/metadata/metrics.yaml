@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog.metrics
+name: "metrics"
+title: "Datadog metrics"
+description: "Tasks that submit custom metric points to Datadog and query timeseries."
+body: "Submit gauges, counts and rates with the API key. Query timeseries with an application key, over a window or a look-back."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"

@@ -1,0 +1,8 @@
+group: io.kestra.plugin.datadog.events
+name: "events"
+title: "Datadog events"
+description: "Tasks that post events to the Datadog event stream."
+body: "Provide the API key, a title and a text to post an event, with an alert type, tags and a host."
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"
